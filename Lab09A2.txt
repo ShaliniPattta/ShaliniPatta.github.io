@@ -1,0 +1,15 @@
+event.html
+    Prompt for name
+    Get the name
+    Prompt for phone number
+    Get the phone number
+    Prompt for number of tickets
+    Get the number of tickets
+    Submit name, phone number, number of tickets to event.php
+ END
+
+ event.php
+    Receive name, phone number, number of tickets from event.html
+    Total cost = 35 * number of tickets
+    Display the name, phone number, number tickets and cost of the tickets.
+ END

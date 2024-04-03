@@ -1,0 +1,16 @@
+softwareOrder.html
+    Prompt for the number of copies
+    Get the number of copies
+    Prompt for required operating system
+    Get the required operating system
+    Submit number of the copies and required operating system to  software-Order.php
+ END
+
+ software-Order.php
+    Receive number of copies and the required operating system from softwareOrder.html
+    the subtotal = 35 * number of copies
+    tax = 0.07 * subtotal
+    shipping/handling costs = 1.25 * number of copies
+    the total cost = the subtotal + charges + tax
+    display the operrating system,the number of copies,the subtotal, the tax, and the shipping/handling and the total cost.
+END
